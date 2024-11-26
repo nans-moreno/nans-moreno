@@ -23,5 +23,3 @@
 [![Email](https://img.shields.io/badge/Email-nans.moreno@laplateforme.io-red?style=for-the-badge&logo=gmail)](mailto:nans.moreno@laplateforme.io)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-black?style=for-the-badge&logo=react)](https://github.com/votre-pseudo)
 
-## 🏆 Achievements
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=votre-pseudo-github&layout=compact)
